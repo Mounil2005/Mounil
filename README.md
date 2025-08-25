@@ -48,8 +48,6 @@ This repository contains my GitHub profile README 🚀
 - 🎤 Presented Research at **ACL 2025**  
 - 🚀 First Hackathon – **Code-ए-Manipal**
 
-[Mounil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mounil2005&show_icons=true&theme=radical)
-
 
 ---
 
