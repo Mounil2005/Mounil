@@ -36,6 +36,7 @@ This repository contains my GitHub profile README 🚀
 
 ## Research Projects
 🔹**Simulating Emotional Intelligence in LLMs through Behavioral Conditioning and Analogical Retrieval** - Published in ACL-2025 [A-Star Conference]
+
 🔹**A Secure Federated Learning Framework for Decentralized ECG Classification on Heterogeneous Data** - Published in ICDSA-2025 
 
 ---
