@@ -41,12 +41,6 @@ This repository contains my GitHub profile README 🚀
 
 ---
 
-## 📊 GitHub Stats  
-![Mounil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mounil&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mounil&theme=radical) 
-
----
-
 ## 🏆 Achievements  
 - 🥇 Oracle Certified in **SQL**  
 - 📜 Certificate in Communication Skills – **Trinity College London**  
