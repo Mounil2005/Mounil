@@ -53,9 +53,9 @@ This repository contains my GitHub profile README 🚀
 
 ## 📊 GitHub Stats  
 
-![Mounil's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Mounil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mounil2005&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mounil2005&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mounil2005&layout=compact&theme=radical)
 
 ---
 
